@@ -141,7 +141,7 @@ SWITCH(
 ---
 ## 📦 Data Source
 
-The `SegmentData.csv` contains 7 rows (one per segment) with the following fields:
+The `segments_labeled.csv` contains 7 rows (one per segment) with the following fields:
 
 | Field | Description |
 |---|---|
